@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{8308E13F-DD32-45C0-BBC3-EC2F175EBCE0}</ProjectGuid>
+    <RootNamespace>CourseBid_Common</RootNamespace>
+    <ProjectName>CourseBid_Common</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>..\..\lemon-1.3.1\build;..\..\lemon-1.3.1;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
+    <LibraryPath>C:\Program Files (x86)\GnuWin32\lib;..\..\lemon-1.3.1\build\lemon\Debug;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SolutionDir)\CourseBid_Storage;$(SolutionDir)\CourseBid_UI;$(SolutionDir)\CourseBid_SecretaryTerminal;$(SolutionDir)\CourseBid_Utils;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <AdditionalDependencies>glpk.lib;lemon.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CourseBid_Storage\DBEventLog.cpp" />
+    <ClCompile Include="..\CourseBid_Storage\FileStorage.cpp" />
+    <ClCompile Include="..\CourseBid_Utils\EventLog.cpp" />
+    <ClCompile Include="AssignitionResultsCourseScreen.cpp" />
+    <ClCompile Include="AssignitionResultScreen.cpp" />
+    <ClCompile Include="AssignitionResultsStudentScreen.cpp" />
+    <ClCompile Include="CircleDetection.cpp" />
+    <ClCompile Include="Course.cpp" />
+    <ClCompile Include="CourseDataScreen.cpp" />
+    <ClCompile Include="CourseEventLog.cpp" />
+    <ClCompile Include="Formula.cpp" />
+    <ClCompile Include="maincpp_Common.cpp" />
+    <ClCompile Include="RegistrationStartDate.cpp" />
+    <ClCompile Include="AssignmentCalculator.cpp" />
+    <ClCompile Include="Student.cpp" />
+    <ClCompile Include="StudentEventLog.cpp" />
+    <ClCompile Include="SystemTime.cpp" />
+    <ClCompile Include="Technician.cpp" />
+    <ClCompile Include="TerminalObj.cpp" />
+    <ClCompile Include="User.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CourseBid_Storage\DBEventLog.h" />
+    <ClInclude Include="..\CourseBid_Storage\FileStorage.h" />
+    <ClInclude Include="..\CourseBid_Storage\IStorage.h" />
+    <ClInclude Include="..\CourseBid_UI\UIDataScreen.h" />
+    <ClInclude Include="..\CourseBid_UI\UIErrorScreen.h" />
+    <ClInclude Include="..\CourseBid_UI\UIListScreen.h" />
+    <ClInclude Include="..\CourseBid_UI\UIMainScreen.h" />
+    <ClInclude Include="..\CourseBid_UI\UIScreen.h" />
+    <ClInclude Include="..\CourseBid_UI\UITerminal.h" />
+    <ClInclude Include="..\CourseBid_Utils\EventLog.h" />
+    <ClInclude Include="AssignitionResultsCourseScreen.h" />
+    <ClInclude Include="AssignitionResultsScreen.h" />
+    <ClInclude Include="AssignitionResultsStudentScreen.h" />
+    <ClInclude Include="AssignmentCalculator.h" />
+    <ClInclude Include="CircleDetection.h" />
+    <ClInclude Include="Course.h" />
+    <ClInclude Include="CourseDataScreen.h" />
+    <ClInclude Include="CourseEventLog.h" />
+    <ClInclude Include="CoursePair.h" />
+    <ClInclude Include="Formula.h" />
+    <ClInclude Include="IdObj.h" />
+    <ClInclude Include="RegistrationStartDate.h" />
+    <ClInclude Include="Student.h" />
+    <ClInclude Include="StudentEventLog.h" />
+    <ClInclude Include="SystemTime.h" />
+    <ClInclude Include="Technician.h" />
+    <ClInclude Include="TerminalObj.h" />
+    <ClInclude Include="User.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿Build started 2/19/2015 1:54:31 PM.
+     1>Project "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build\lemon\lemon.vcxproj" on node 2 (Rebuild target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/intel/Documents/courses/swe/project/lemon-1.3.1/lemon/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build\lemon\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1" /I"C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build" /I"C:\Program Files (x86)\GnuWin32\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"lemon.dir\Debug\\" /Fd"lemon.dir\Debug\vc120.pdb" /Gd /TP /wd4250 /wd4355 /wd4503 /wd4800 /wd4996 /analyze- /errorReport:prompt "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\arg_parser.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\base.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\color.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\lp_base.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\lp_skeleton.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\random.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\bits\windows.cc" "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\lemon\glpk.cc"
+         arg_parser.cc
+         base.cc
+         color.cc
+         lp_base.cc
+         lp_skeleton.cc
+         random.cc
+         windows.cc
+         glpk.cc
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build\lemon\Debug\lemon.lib" /NOLOGO lemon.dir\Debug\arg_parser.obj
+         lemon.dir\Debug\base.obj
+         lemon.dir\Debug\color.obj
+         lemon.dir\Debug\lp_base.obj
+         lemon.dir\Debug\lp_skeleton.obj
+         lemon.dir\Debug\random.obj
+         lemon.dir\Debug\windows.obj
+         lemon.dir\Debug\glpk.obj
+         lemon.vcxproj -> C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build\lemon\Debug\lemon.lib
+     1>Done Building Project "C:\Users\intel\Documents\courses\swe\project\lemon-1.3.1\build\lemon\lemon.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.03

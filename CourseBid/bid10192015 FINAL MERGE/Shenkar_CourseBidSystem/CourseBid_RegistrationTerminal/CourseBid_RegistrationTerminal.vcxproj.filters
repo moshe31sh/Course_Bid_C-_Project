@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="External">
+      <UniqueIdentifier>{c715738d-346d-4f50-954a-7f3fc08590e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\CourseBid_Storage\FileStorage.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\Course.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="UserLoginScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RegistrationTerminal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\Student.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\Technician.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertAssignitionFileScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointDistributionScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TechnicianMainScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentMainScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TechnitianAssignitionResultsScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\AssignmentCalculator.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Utils\EventLog.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Storage\DBEventLog.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\CourseEventLog.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\StudentEventLog.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\User.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="LockScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Terminal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\CircleDetection.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\TerminalObj.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="main_regTerminal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\SystemTime.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CourseBid_Common\RegistrationStartDate.cpp">
+      <Filter>External</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CourseBid_Common\Course.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\IdObj.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UIDataScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UIErrorScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UIListScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UILockScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UIMainScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UIScreen.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_UI\UITerminal.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Storage\FileStorage.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Storage\IStorage.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="UserLoginScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistrationTerminal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\User.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\Student.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\Technician.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistrationLockedScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InsertAssignitionFileScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PointDistributionScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TechnicianMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TechnitianAssignitionResultsScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\AssignmentCalculator.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Utils\CustomLog.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Utils\EventLog.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Storage\DBEventLog.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\CourseEventLog.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\StudentEventLog.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="Terminal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LockScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\CircleDetection.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\TerminalObj.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\SystemTime.h">
+      <Filter>External</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CourseBid_Common\RegistrationStartDate.h">
+      <Filter>External</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

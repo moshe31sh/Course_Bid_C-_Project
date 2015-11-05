@@ -1,0 +1,22 @@
+﻿Build started 19-10-15 12:39:55 AM.
+     1>Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_StorageTest\CourseBid_StorageTest.vcxproj" on node 4 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Storage /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Utils /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Common /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CourseBid_StorageTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Storage /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Utils /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Common /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt ..\CourseBid_Storage\DBEventLog.cpp ..\CourseBid_Storage\FileStorage.cpp FileStorageTest.cpp
+         FileStorageTest.cpp
+         FileStorage.cpp
+         DBEventLog.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.lib" /MACHINE:X86 /DLL Debug\DBEventLog.obj
+         Debug\FileStorage.obj
+         Debug\stdafx.obj
+         Debug\FileStorageTest.obj
+            Creating library C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.lib and object C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.exp
+         CourseBid_StorageTest.vcxproj -> C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_StorageTest.dll
+     1>Done Building Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_StorageTest\CourseBid_StorageTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.60

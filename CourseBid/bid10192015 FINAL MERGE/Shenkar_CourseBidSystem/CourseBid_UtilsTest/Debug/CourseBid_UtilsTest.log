@@ -1,0 +1,35 @@
+﻿Build started 19-10-15 12:39:54 AM.
+     1>Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_UtilsTest\CourseBid_UtilsTest.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Utils /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CourseBid_UtilsTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Utils /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt ..\CourseBid_Utils\Lexer.cpp ..\CourseBid_Utils\Parser.cpp ..\CourseBid_Utils\Token.cpp ParserTest.cpp
+         ParserTest.cpp
+         Token.cpp
+         Parser.cpp
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(288): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(306): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(340): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(358): warning C4018: '<' : signed/unsigned mismatch
+         Lexer.cpp
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\lexer.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.dll" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" /LIBPATH:C:\Users\gleyz_000\Desktop\cpurseBID1013\Shenkar_CourseBidSystem\CourseBid_Utils\Debug kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.lib" /MACHINE:X86 /DLL Debug\Lexer.obj
+         Debug\Parser.obj
+         Debug\Token.obj
+         Debug\ParserTest.obj
+         Debug\stdafx.obj
+            Creating library C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.lib and object C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.exp
+         CourseBid_UtilsTest.vcxproj -> C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_UtilsTest.dll
+     1>Done Building Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_UtilsTest\CourseBid_UtilsTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.71

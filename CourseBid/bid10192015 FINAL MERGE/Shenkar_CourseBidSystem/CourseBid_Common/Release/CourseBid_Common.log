@@ -1,0 +1,49 @@
+﻿Build started 10/18/2015 7:18:57 PM.
+     1>Project "C:\Users\gleyz_000\Desktop\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_Common\CourseBid_Common.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\CourseBid_Storage\DBEventLog.cpp ..\CourseBid_Storage\FileStorage.cpp AssignitionResultsCourseScreen.cpp AssignitionResultScreen.cpp AssignitionResultsStudentScreen.cpp CircleDetection.cpp Course.cpp CourseDataScreen.cpp CourseEventLog.cpp Formula.cpp maincpp_Common.cpp RegistrationStartDate.cpp AssignmentCalculator.cpp Student.cpp StudentEventLog.cpp SystemTime.cpp Technician.cpp TerminalObj.cpp User.cpp
+         DBEventLog.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_storage\DBEventLog.h(20): fatal error C1083: Cannot open include file: 'EventLog.h': No such file or directory
+         FileStorage.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_storage\DBEventLog.h(20): fatal error C1083: Cannot open include file: 'EventLog.h': No such file or directory
+         AssignitionResultsCourseScreen.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\AssignitionResultsCourseScreen.h(18): fatal error C1083: Cannot open include file: 'UIListScreen.h': No such file or directory
+         AssignitionResultScreen.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\AssignitionResultsScreen.h(18): fatal error C1083: Cannot open include file: 'UIListScreen.h': No such file or directory
+         AssignitionResultsStudentScreen.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\AssignitionResultsStudentScreen.h(18): fatal error C1083: Cannot open include file: 'UIListScreen.h': No such file or directory
+         CircleDetection.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\CircleDetection.h(18): fatal error C1083: Cannot open include file: 'lemon\list_graph.h': No such file or directory
+         Course.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\Course.h(19): fatal error C1083: Cannot open include file: 'lemon/list_graph.h': No such file or directory
+         CourseDataScreen.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\CourseDataScreen.h(18): fatal error C1083: Cannot open include file: 'UIDataScreen.h': No such file or directory
+         CourseEventLog.cpp
+     1>CourseEventLog.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\CourseEventLog.h(20): fatal error C1083: Cannot open include file: 'EventLog.h': No such file or directory
+         Formula.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         maincpp_Common.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         RegistrationStartDate.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         AssignmentCalculator.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\AssignmentCalculator.h(18): fatal error C1083: Cannot open include file: 'lemon/LP.h': No such file or directory
+         Student.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         StudentEventLog.cpp
+     1>StudentEventLog.cpp(11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\StudentEventLog.h(20): fatal error C1083: Cannot open include file: 'EventLog.h': No such file or directory
+         SystemTime.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         Technician.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+         TerminalObj.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\TerminalObj.h(19): fatal error C1083: Cannot open include file: 'FileStorage.h': No such file or directory
+         User.cpp
+     1>c:\users\gleyz_000\desktop\coursenidfinal\shenkar_coursebidsystem\coursebid_common\IdObj.h(19): fatal error C1083: Cannot open include file: 'IStorage.h': No such file or directory
+     1>Done Building Project "C:\Users\gleyz_000\Desktop\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_Common\CourseBid_Common.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.98

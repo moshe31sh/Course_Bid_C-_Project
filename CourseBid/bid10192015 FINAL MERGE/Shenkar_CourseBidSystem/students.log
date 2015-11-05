@@ -1,0 +1,1323 @@
+14:22:4 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+14:22:16 DEBUG	[getByStudentId]	Student received by student id: [2].
+14:29:24 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+14:29:24 DEBUG	[getByStudentId]	Student received by student id: [2].
+14:31:13 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+14:31:13 DEBUG	[getByStudentId]	Student received by student id: [2].
+14:31:13 DEBUG	[save]	Creating student record to save in DB for [12311] [John The I].
+14:31:13 DEBUG	[save]	Saving student record to save in DB for [12311] [John The I].
+14:31:13 DEBUG	[save]	Saving completed courses - recursive call to [save].
+14:31:13 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+14:31:13 DEBUG	[save]	Saving desired courses - recursive call to [save].
+14:31:13 DEBUG	[save]	Finished saving student record to DB.
+23:30:40 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:30:40 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:39:45 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:39:45 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:40:56 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:40:56 DEBUG	[getByStudentId]	Student received by student id: [2].
+18:22:45 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+18:22:45 DEBUG	[getByStudentId]	Student received by student id: [2].
+18:53:15 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+18:53:15 DEBUG	[getByStudentId]	Student received by student id: [2].
+21:34:9 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+21:34:9 DEBUG	[getByStudentId]	Student received by student id: [2].
+16:56:13 DEBUG	[getAll]	Getting list of all students from DB.
+16:56:13 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+16:56:13 DEBUG	[getAll]	Finished getting list of all students from DB.
+16:59:5 DEBUG	[getAll]	Getting list of all students from DB.
+16:59:5 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+16:59:5 DEBUG	[getAll]		Received student [12345] [ADMIN ADMIN] from DB.
+16:59:5 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:0:52 DEBUG	[getAll]	Getting list of all students from DB.
+17:0:52 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:0:52 DEBUG	[getAll]		Received student [12345] [ADMIN ADMIN] from DB.
+17:0:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:1:11 DEBUG	[getAll]	Getting list of all students from DB.
+17:1:11 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:1:11 DEBUG	[getAll]		Received student [12345] [ADMIN ADMIN] from DB.
+17:1:11 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:5:51 DEBUG	[getAll]	Getting list of all students from DB.
+17:5:51 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:5:51 DEBUG	[getAll]		Received student [12345] [ADMIN ADMIN] from DB.
+17:5:51 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:36:8 DEBUG	[getAll]	Getting list of all students from DB.
+17:36:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:36:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:43:14 DEBUG	[getAll]	Getting list of all students from DB.
+17:43:14 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:43:14 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:44:30 DEBUG	[getAll]	Getting list of all students from DB.
+17:44:30 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:44:30 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:45:25 DEBUG	[getAll]	Getting list of all students from DB.
+17:45:25 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:45:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:46:56 DEBUG	[getAll]	Getting list of all students from DB.
+17:46:56 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:46:56 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:51:9 DEBUG	[getAll]	Getting list of all students from DB.
+17:51:9 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:51:9 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:51:37 DEBUG	[getAll]	Getting list of all students from DB.
+17:51:37 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:51:37 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:52:25 DEBUG	[getAll]	Getting list of all students from DB.
+17:52:25 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:52:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:55:41 DEBUG	[getAll]	Getting list of all students from DB.
+17:55:41 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:55:41 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:55:58 DEBUG	[getAll]	Getting list of all students from DB.
+17:55:58 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:55:58 DEBUG	[getAll]	Finished getting list of all students from DB.
+17:57:36 DEBUG	[getAll]	Getting list of all students from DB.
+17:57:36 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+17:57:36 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:0:1 DEBUG	[getAll]	Getting list of all students from DB.
+18:0:1 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:0:1 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:0:34 DEBUG	[getAll]	Getting list of all students from DB.
+18:0:34 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:0:34 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:6:35 DEBUG	[getAll]	Getting list of all students from DB.
+18:6:35 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:6:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:8:53 DEBUG	[getAll]	Getting list of all students from DB.
+18:8:53 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:8:53 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:9:32 DEBUG	[getAll]	Getting list of all students from DB.
+18:9:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:9:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:9:48 DEBUG	[getAll]	Getting list of all students from DB.
+18:9:48 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:9:48 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:11:5 DEBUG	[getAll]	Getting list of all students from DB.
+18:11:5 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:11:5 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:12:27 DEBUG	[getAll]	Getting list of all students from DB.
+18:12:27 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:12:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:13:7 DEBUG	[getAll]	Getting list of all students from DB.
+18:13:7 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:13:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:13:41 DEBUG	[getAll]	Getting list of all students from DB.
+18:13:41 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:13:41 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:17:35 DEBUG	[getAll]	Getting list of all students from DB.
+18:17:35 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:17:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:17:47 DEBUG	[getAll]	Getting list of all students from DB.
+18:17:47 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:17:47 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:17:58 DEBUG	[getAll]	Getting list of all students from DB.
+18:17:58 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:17:58 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:18:52 DEBUG	[getAll]	Getting list of all students from DB.
+18:18:52 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:18:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:19:10 DEBUG	[getAll]	Getting list of all students from DB.
+18:19:10 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:19:10 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:20:34 DEBUG	[getAll]	Getting list of all students from DB.
+18:20:34 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:20:34 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:23:54 DEBUG	[getAll]	Getting list of all students from DB.
+18:23:54 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:23:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:24:13 DEBUG	[getAll]	Getting list of all students from DB.
+18:24:13 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:24:13 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:24:36 DEBUG	[getAll]	Getting list of all students from DB.
+18:24:36 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:24:36 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:25:1 DEBUG	[getAll]	Getting list of all students from DB.
+18:25:1 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:25:1 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:33:32 DEBUG	[getAll]	Getting list of all students from DB.
+18:33:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:33:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:40:7 DEBUG	[getAll]	Getting list of all students from DB.
+18:40:7 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:40:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:43:19 DEBUG	[getAll]	Getting list of all students from DB.
+18:43:19 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:43:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:44:1 DEBUG	[getAll]	Getting list of all students from DB.
+18:44:1 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:44:1 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:51:20 DEBUG	[getAll]	Getting list of all students from DB.
+18:51:20 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:51:20 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:53:32 DEBUG	[getAll]	Getting list of all students from DB.
+18:53:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:53:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:55:0 DEBUG	[getAll]	Getting list of all students from DB.
+18:55:0 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:55:0 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:56:54 DEBUG	[getAll]	Getting list of all students from DB.
+18:56:54 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:56:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:57:30 DEBUG	[getAll]	Getting list of all students from DB.
+18:57:30 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:57:30 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:57:58 DEBUG	[getAll]	Getting list of all students from DB.
+18:57:58 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:57:58 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:59:8 DEBUG	[getAll]	Getting list of all students from DB.
+18:59:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:59:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+18:59:23 DEBUG	[getAll]	Getting list of all students from DB.
+18:59:23 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+18:59:23 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:0:36 DEBUG	[getAll]	Getting list of all students from DB.
+19:0:36 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:0:36 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:1:23 DEBUG	[getAll]	Getting list of all students from DB.
+19:1:23 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:1:23 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:2:51 DEBUG	[getAll]	Getting list of all students from DB.
+19:2:51 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:2:51 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:3:12 DEBUG	[getAll]	Getting list of all students from DB.
+19:3:12 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:3:12 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:5:16 DEBUG	[getAll]	Getting list of all students from DB.
+19:5:16 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:5:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:20:53 DEBUG	[getAll]	Getting list of all students from DB.
+19:20:53 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:20:53 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:26:40 DEBUG	[getAll]	Getting list of all students from DB.
+19:26:40 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:26:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:27:25 DEBUG	[getAll]	Getting list of all students from DB.
+19:27:25 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:27:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:28:23 DEBUG	[getAll]	Getting list of all students from DB.
+19:28:23 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:28:23 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:28:54 DEBUG	[getAll]	Getting list of all students from DB.
+19:28:54 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:28:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:44:3 DEBUG	[getAll]	Getting list of all students from DB.
+19:44:3 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:44:3 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:44:29 DEBUG	[getAll]	Getting list of all students from DB.
+19:44:29 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+19:44:29 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:47:1 DEBUG	[getAll]	Getting list of all students from DB.
+19:47:1 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:49:28 DEBUG	[getAll]	Getting list of all students from DB.
+19:49:28 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:50:50 DEBUG	[getAll]	Getting list of all students from DB.
+19:50:50 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:51:51 DEBUG	[getAll]	Getting list of all students from DB.
+19:51:51 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:53:19 DEBUG	[getAll]	Getting list of all students from DB.
+19:53:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:54:21 DEBUG	[getAll]	Getting list of all students from DB.
+19:54:21 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:54:34 DEBUG	[getByStudentId]	Trying to get student by student id [12345].
+19:54:34 ERROR!	[getByStudentId]	No student found by student id: [12345].
+19:54:46 DEBUG	[getAll]	Getting list of all students from DB.
+19:54:46 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:57:45 DEBUG	[getAll]	Getting list of all students from DB.
+19:57:45 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:58:27 DEBUG	[getAll]	Getting list of all students from DB.
+19:58:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:3:18 DEBUG	[getAll]	Getting list of all students from DB.
+20:3:18 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:3:29 DEBUG	[getAll]	Getting list of all students from DB.
+20:3:29 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:3:41 DEBUG	[getAll]	Getting list of all students from DB.
+20:3:41 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:4:6 DEBUG	[getAll]	Getting list of all students from DB.
+20:4:6 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:4:6 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:4:32 DEBUG	[getAll]	Getting list of all students from DB.
+20:4:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:4:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:4:57 DEBUG	[getAll]	Getting list of all students from DB.
+20:4:57 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:4:57 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:6:8 DEBUG	[getAll]	Getting list of all students from DB.
+20:6:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:6:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:6:16 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+20:6:16 DEBUG	[getByStudentId]	Student received by student id: [2].
+20:6:26 DEBUG	[getAll]	Getting list of all students from DB.
+20:6:26 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:6:26 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:6:35 DEBUG	[getAll]	Getting list of all students from DB.
+20:6:35 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:6:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:6:41 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+20:6:41 DEBUG	[getByStudentId]	Student received by student id: [2].
+20:6:57 DEBUG	[getAll]	Getting list of all students from DB.
+20:6:57 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:6:57 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:9:57 DEBUG	[getAll]	Getting list of all students from DB.
+20:9:57 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:9:57 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:11:19 DEBUG	[getAll]	Getting list of all students from DB.
+20:11:19 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:11:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:15:53 DEBUG	[getAll]	Getting list of all students from DB.
+20:15:53 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:15:53 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:20:31 DEBUG	[getAll]	Getting list of all students from DB.
+20:20:31 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:20:31 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:20:34 DEBUG	[getAll]	Getting list of all students from DB.
+20:20:34 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:20:34 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:23:35 DEBUG	[getAll]	Getting list of all students from DB.
+20:23:35 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:23:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:27:40 DEBUG	[getAll]	Getting list of all students from DB.
+20:27:40 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:27:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:32:32 DEBUG	[getAll]	Getting list of all students from DB.
+20:32:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:32:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:34:28 DEBUG	[getAll]	Getting list of all students from DB.
+20:34:28 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:34:28 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:35:39 DEBUG	[getAll]	Getting list of all students from DB.
+20:35:39 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:35:39 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:38:19 DEBUG	[getAll]	Getting list of all students from DB.
+20:38:19 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:38:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:41:8 DEBUG	[getAll]	Getting list of all students from DB.
+20:41:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:41:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:55:8 DEBUG	[getAll]	Getting list of all students from DB.
+20:55:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:55:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:55:53 DEBUG	[getAll]	Getting list of all students from DB.
+20:55:53 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:55:53 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:56:16 DEBUG	[getAll]	Getting list of all students from DB.
+20:56:16 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+20:56:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:9:27 DEBUG	[getAll]	Getting list of all students from DB.
+21:9:27 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:9:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:10:8 DEBUG	[getAll]	Getting list of all students from DB.
+21:10:8 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:10:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:18:32 DEBUG	[getAll]	Getting list of all students from DB.
+21:18:32 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:18:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:20:52 DEBUG	[getAll]	Getting list of all students from DB.
+21:20:52 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:20:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:20:58 DEBUG	[getAll]	Getting list of all students from DB.
+21:20:58 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:20:58 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:21:37 DEBUG	[getAll]	Getting list of all students from DB.
+21:21:37 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:21:37 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:22:25 DEBUG	[getAll]	Getting list of all students from DB.
+21:22:25 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+21:22:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:32:30 DEBUG	[getAll]	Getting list of all students from DB.
+23:32:30 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+23:32:30 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:32:30 DEBUG	[save]	Creating student record to save in DB for [12311] [John The I].
+23:53:24 DEBUG	[getAll]	Getting list of all students from DB.
+23:53:24 DEBUG	[getAll]		Received student [2] [John The I] from DB.
+23:53:24 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:54:16 DEBUG	[getAll]	Getting list of all students from DB.
+23:54:16 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:54:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:54:19 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:54:19 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:54:38 DEBUG	[getAll]	Getting list of all students from DB.
+23:54:38 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:54:38 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:54:40 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:54:40 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:55:5 DEBUG	[getAll]	Getting list of all students from DB.
+23:55:5 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:55:5 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:56:19 DEBUG	[getAll]	Getting list of all students from DB.
+23:56:19 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:56:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:58:52 DEBUG	[getAll]	Getting list of all students from DB.
+23:58:52 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:58:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:58:52 DEBUG	[getAll]	Getting list of all students from DB.
+23:58:52 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:58:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:58:56 DEBUG	[getAll]	Getting list of all students from DB.
+23:58:56 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:58:56 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:58:59 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:58:59 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:59:1 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:59:1 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:59:3 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+23:59:3 DEBUG	[getByStudentId]	Student received by student id: [2].
+23:59:3 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+23:59:3 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+23:59:3 DEBUG	[save]	Finished saving student record to DB.
+23:59:13 DEBUG	[getAll]	Getting list of all students from DB.
+23:59:13 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:59:13 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:59:14 DEBUG	[getAll]	Getting list of all students from DB.
+23:59:14 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:59:14 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:59:59 DEBUG	[getAll]	Getting list of all students from DB.
+23:59:59 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+23:59:59 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:0:2 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:0:2 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:0:4 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:0:4 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:0:5 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:0:5 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:0:5 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:0:5 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:0:5 DEBUG	[save]	Finished saving student record to DB.
+0:0:54 DEBUG	[getAll]	Getting list of all students from DB.
+0:0:54 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:0:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:0:54 DEBUG	[getAll]	Getting list of all students from DB.
+0:0:54 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:0:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:0:57 DEBUG	[getAll]	Getting list of all students from DB.
+0:0:57 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:0:58 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:0:59 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:0:59 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:1:0 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:1:0 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:1:1 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:1:1 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:1:1 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:1:1 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:1:1 DEBUG	[save]	Finished saving student record to DB.
+0:3:10 DEBUG	[getAll]	Getting list of all students from DB.
+0:3:10 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:3:10 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:3:10 DEBUG	[getAll]	Getting list of all students from DB.
+0:3:10 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:3:10 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:3:22 DEBUG	[getAll]	Getting list of all students from DB.
+0:3:22 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:3:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:3:23 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:3:23 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:3:23 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:3:23 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:3:24 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:3:24 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:3:24 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:3:24 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:3:24 DEBUG	[save]	Finished saving student record to DB.
+0:4:16 DEBUG	[getAll]	Getting list of all students from DB.
+0:4:16 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:4:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:4:20 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:4:20 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:4:29 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:4:29 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:4:29 DEBUG	[save]	Finished saving student record to DB.
+0:19:43 DEBUG	[getAll]	Getting list of all students from DB.
+0:19:43 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:19:43 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:19:44 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:19:44 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:20:28 DEBUG	[getAll]	Getting list of all students from DB.
+0:20:28 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:20:28 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:20:29 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:20:29 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:20:59 DEBUG	[getAll]	Getting list of all students from DB.
+0:20:59 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:20:59 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:20:59 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:20:59 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:22:25 DEBUG	[getAll]	Getting list of all students from DB.
+0:22:25 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:22:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:22:26 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:22:26 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:25:7 DEBUG	[getAll]	Getting list of all students from DB.
+0:25:7 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:25:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:25:8 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:25:8 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:25:29 DEBUG	[getAll]	Getting list of all students from DB.
+0:25:29 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:25:29 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:25:30 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:25:30 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:25:40 DEBUG	[getAll]	Getting list of all students from DB.
+0:25:40 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:25:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:25:40 DEBUG	[getAll]	Getting list of all students from DB.
+0:25:40 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:25:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:26:4 DEBUG	[getAll]	Getting list of all students from DB.
+0:26:4 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:26:4 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:26:4 DEBUG	[getAll]	Getting list of all students from DB.
+0:26:4 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:26:4 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:27:11 DEBUG	[getAll]	Getting list of all students from DB.
+0:27:11 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:27:11 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:27:11 DEBUG	[getAll]	Getting list of all students from DB.
+0:27:11 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:27:11 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:33:15 DEBUG	[getAll]	Getting list of all students from DB.
+0:33:15 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:33:15 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:33:15 DEBUG	[getAll]	Getting list of all students from DB.
+0:33:15 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:33:15 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:33:27 DEBUG	[getAll]	Getting list of all students from DB.
+0:33:27 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:33:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:33:27 DEBUG	[getAll]	Getting list of all students from DB.
+0:33:27 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:33:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:37:41 DEBUG	[getAll]	Getting list of all students from DB.
+0:37:41 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:37:41 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:37:45 DEBUG	[getAll]	Getting list of all students from DB.
+0:37:45 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:37:45 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:37:56 DEBUG	[getAll]	Getting list of all students from DB.
+0:37:56 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:37:56 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:38:1 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:38:1 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:38:19 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:38:19 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:38:28 DEBUG	[getAll]	Getting list of all students from DB.
+0:38:28 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:38:28 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:5 DEBUG	[getAll]	Getting list of all students from DB.
+0:44:5 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:44:5 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:8 DEBUG	[getAll]	Getting list of all students from DB.
+0:44:8 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:44:8 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:10 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:44:10 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:44:18 DEBUG	[getAll]	Getting list of all students from DB.
+0:44:18 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:44:18 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:21 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:44:21 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:44:27 DEBUG	[getAll]	Getting list of all students from DB.
+0:44:27 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:44:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:33 DEBUG	[getAll]	Getting list of all students from DB.
+0:44:33 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:44:33 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:44:34 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:44:34 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:45:24 DEBUG	[getAll]	Getting list of all students from DB.
+0:45:24 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:45:24 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:45:25 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:45:25 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:45:55 DEBUG	[getAll]	Getting list of all students from DB.
+0:45:55 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:45:55 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:46:1 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:46:1 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:47:22 DEBUG	[getAll]	Getting list of all students from DB.
+0:47:22 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:47:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:47:24 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:47:24 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:48:25 DEBUG	[getAll]	Getting list of all students from DB.
+0:48:25 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:48:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:48:28 DEBUG	[getAll]	Getting list of all students from DB.
+0:48:28 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:48:28 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:48:28 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:48:28 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:50:20 DEBUG	[getAll]	Getting list of all students from DB.
+0:50:20 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:50:20 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:50:28 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:50:28 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:51:16 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:16 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:51:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:20 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:20 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:51:20 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:22 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:22 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:51:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:23 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:51:23 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:51:44 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:44 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:51:44 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:45 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:51:45 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:52:59 DEBUG	[getAll]	Getting list of all students from DB.
+0:52:59 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:52:59 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:53:0 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:53:0 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:54:55 DEBUG	[getAll]	Getting list of all students from DB.
+0:54:55 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:54:55 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:54:56 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:54:56 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:56:7 DEBUG	[getAll]	Getting list of all students from DB.
+0:56:7 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:56:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:56:9 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:56:9 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:56:28 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:56:28 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:56:28 DEBUG	[save]	Saving completed courses - recursive call to [save].
+0:56:28 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+0:56:28 DEBUG	[save]	Saving desired courses - recursive call to [save].
+0:56:28 DEBUG	[save]	Finished saving student record to DB.
+0:56:28 DEBUG	[save]	Creating student record to save in DB for [12311] [ohad The I].
+0:56:28 DEBUG	[save]	Saving student record to save in DB for [12311] [ohad The I].
+0:56:28 DEBUG	[save]	Finished saving student record to DB.
+0:57:9 DEBUG	[getAll]	Getting list of all students from DB.
+0:57:9 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:57:9 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:57:11 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:57:11 DEBUG	[getByStudentId]	Student received by student id: [2].
+0:58:22 DEBUG	[getAll]	Getting list of all students from DB.
+0:58:22 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+0:58:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:58:23 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+0:58:23 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:1:52 DEBUG	[getAll]	Getting list of all students from DB.
+1:1:52 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:1:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:1:54 DEBUG	[getAll]	Getting list of all students from DB.
+1:1:54 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:1:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:1:56 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:1:56 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:7:54 DEBUG	[getAll]	Getting list of all students from DB.
+1:7:54 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:7:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:7:56 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:7:56 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:8:55 DEBUG	[getAll]	Getting list of all students from DB.
+1:8:55 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:8:55 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:8:57 DEBUG	[getAll]	Getting list of all students from DB.
+1:8:57 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:8:57 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:9:1 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:9:1 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:9:4 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:9:4 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:10:24 DEBUG	[getAll]	Getting list of all students from DB.
+1:10:24 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:10:24 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:10:27 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:10:27 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:11:5 DEBUG	[getAll]	Getting list of all students from DB.
+1:11:5 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:11:5 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:11:7 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:11:7 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:12:49 DEBUG	[getAll]	Getting list of all students from DB.
+1:12:49 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:12:49 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:12:50 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:12:50 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:14:36 DEBUG	[getAll]	Getting list of all students from DB.
+1:14:36 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:14:36 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:14:38 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:14:38 DEBUG	[getByStudentId]	Student received by student id: [2].
+1:16:25 DEBUG	[getAll]	Getting list of all students from DB.
+1:16:25 DEBUG	[getAll]		Received student [2] [ohad The I] from DB.
+1:16:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:16:27 DEBUG	[getByStudentId]	Trying to get student by student id [2].
+1:16:27 DEBUG	[getByStudentId]	Student received by student id: [2].
+2:51:40 DEBUG	[getAll]	Getting list of all students from DB.
+2:51:40 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+2:51:40 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+2:51:40 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+2:51:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+2:51:40 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:51:40 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:51:40 DEBUG	[save]	Finished saving student record to DB.
+2:51:40 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+2:51:40 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+2:51:40 DEBUG	[save]	Finished saving student record to DB.
+2:51:40 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+2:51:40 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+2:51:40 DEBUG	[save]	Finished saving student record to DB.
+2:53:9 DEBUG	[getAll]	Getting list of all students from DB.
+2:53:9 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+2:53:9 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+2:53:9 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+2:53:9 DEBUG	[getAll]	Finished getting list of all students from DB.
+2:53:16 DEBUG	[getByStudentId]	Trying to get student by student id [13].
+2:53:16 DEBUG	[getByStudentId]	Student received by student id: [13].
+2:53:27 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:53:27 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:53:27 DEBUG	[save]	Saving completed courses - recursive call to [save].
+2:53:27 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+2:53:27 DEBUG	[save]	Saving desired courses - recursive call to [save].
+2:53:27 DEBUG	[save]	Finished saving student record to DB.
+2:53:27 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:53:27 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:53:27 DEBUG	[save]	Finished saving student record to DB.
+2:54:12 DEBUG	[getAll]	Getting list of all students from DB.
+2:54:12 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+2:54:12 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+2:54:12 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+2:54:12 DEBUG	[getAll]	Finished getting list of all students from DB.
+2:54:13 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:54:13 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:54:13 DEBUG	[save]	Saving completed courses - recursive call to [save].
+2:54:13 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+2:54:13 DEBUG	[save]	Saving desired courses - recursive call to [save].
+2:54:13 DEBUG	[save]	Finished saving student record to DB.
+2:54:13 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+2:54:13 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+2:54:13 DEBUG	[save]	Finished saving student record to DB.
+2:54:13 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+2:54:13 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+2:54:13 DEBUG	[save]	Finished saving student record to DB.
+2:54:13 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:54:13 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:54:13 DEBUG	[save]	Finished saving student record to DB.
+2:56:39 DEBUG	[getAll]	Getting list of all students from DB.
+2:56:39 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+2:56:39 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+2:56:39 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+2:56:39 DEBUG	[getAll]	Finished getting list of all students from DB.
+2:56:39 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+2:56:39 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+2:56:39 DEBUG	[save]	Finished saving student record to DB.
+2:56:39 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+2:56:39 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+2:56:39 DEBUG	[save]	Finished saving student record to DB.
+2:56:39 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+2:56:39 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+2:56:39 DEBUG	[save]	Finished saving student record to DB.
+3:20:26 DEBUG	[getAll]	Getting list of all students from DB.
+3:20:26 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+3:20:26 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+3:20:26 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+3:20:26 DEBUG	[getAll]	Finished getting list of all students from DB.
+3:20:26 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+3:20:26 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+3:20:26 DEBUG	[save]	Finished saving student record to DB.
+3:20:26 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+3:20:26 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+3:20:26 DEBUG	[save]	Finished saving student record to DB.
+3:20:26 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+3:20:26 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+3:20:26 DEBUG	[save]	Finished saving student record to DB.
+3:36:40 DEBUG	[getAll]	Getting list of all students from DB.
+3:36:40 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+3:36:40 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+3:36:40 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+3:36:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+3:36:40 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+3:36:40 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+3:36:40 DEBUG	[save]	Finished saving student record to DB.
+3:36:40 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+3:36:40 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+3:36:40 DEBUG	[save]	Finished saving student record to DB.
+3:36:40 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+3:36:40 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+3:36:40 DEBUG	[save]	Finished saving student record to DB.
+19:35:33 DEBUG	[getAll]	Getting list of all students from DB.
+19:35:33 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+19:35:33 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+19:35:33 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+19:35:33 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:35:33 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+19:35:33 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+19:35:33 DEBUG	[save]	Finished saving student record to DB.
+19:35:33 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+19:35:33 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+19:35:33 DEBUG	[save]	Finished saving student record to DB.
+19:35:33 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+19:35:33 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+19:35:33 DEBUG	[save]	Finished saving student record to DB.
+19:38:18 DEBUG	[getAll]	Getting list of all students from DB.
+19:38:18 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+19:38:18 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+19:38:18 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+19:38:18 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:38:18 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+19:38:18 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+19:38:18 DEBUG	[save]	Finished saving student record to DB.
+19:38:18 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+19:38:18 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+19:38:18 DEBUG	[save]	Finished saving student record to DB.
+19:38:18 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+19:38:18 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+19:38:18 DEBUG	[save]	Finished saving student record to DB.
+19:41:42 DEBUG	[getAll]	Getting list of all students from DB.
+19:41:42 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+19:41:42 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+19:41:42 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+19:41:42 DEBUG	[getAll]	Finished getting list of all students from DB.
+19:41:42 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+19:41:42 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+19:41:42 DEBUG	[save]	Finished saving student record to DB.
+19:41:42 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+19:41:42 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+19:41:42 DEBUG	[save]	Finished saving student record to DB.
+19:41:42 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+19:41:42 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+19:41:42 DEBUG	[save]	Finished saving student record to DB.
+20:17:36 DEBUG	[getAll]	Getting list of all students from DB.
+20:17:36 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:17:36 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:17:36 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:17:36 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:17:36 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+20:17:36 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+20:17:36 DEBUG	[save]	Finished saving student record to DB.
+20:17:36 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+20:17:36 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+20:17:36 DEBUG	[save]	Finished saving student record to DB.
+20:17:36 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+20:17:36 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+20:17:36 DEBUG	[save]	Finished saving student record to DB.
+20:18:14 DEBUG	[getAll]	Getting list of all students from DB.
+20:18:14 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:18:14 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:18:14 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:18:14 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:19:4 DEBUG	[getAll]	Getting list of all students from DB.
+20:19:4 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:19:4 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:19:4 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:19:4 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:19:15 DEBUG	[getAll]	Getting list of all students from DB.
+20:19:15 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:19:15 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:19:15 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:19:15 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:30:7 DEBUG	[getAll]	Getting list of all students from DB.
+20:30:7 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:30:7 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:30:7 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:30:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+20:33:52 DEBUG	[getAll]	Getting list of all students from DB.
+20:33:52 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+20:33:52 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+20:33:52 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+20:33:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:11:21 DEBUG	[getAll]	Getting list of all students from DB.
+21:11:21 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+21:11:21 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+21:11:22 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+21:11:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:13:9 DEBUG	[getAll]	Getting list of all students from DB.
+21:13:10 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+21:13:10 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+21:13:10 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+21:13:10 DEBUG	[getAll]	Finished getting list of all students from DB.
+21:45:39 DEBUG	[getAll]	Getting list of all students from DB.
+21:45:39 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+21:45:39 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+21:45:39 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+21:45:39 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:9:34 DEBUG	[getAll]	Getting list of all students from DB.
+22:9:34 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:9:35 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:9:35 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:9:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:9:58 DEBUG	[getAll]	Getting list of all students from DB.
+22:9:59 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:9:59 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:9:59 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:9:59 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:10:50 DEBUG	[getAll]	Getting list of all students from DB.
+22:10:50 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:10:51 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:10:51 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:10:51 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:10:53 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+22:10:53 DEBUG	[getByStudentId]	Student received by student id: [12].
+22:15:3 DEBUG	[getAll]	Getting list of all students from DB.
+22:15:4 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:15:4 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:15:4 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:15:4 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:15:4 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:15:4 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:15:4 DEBUG	[save]	Finished saving student record to DB.
+22:15:5 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:15:5 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:15:5 DEBUG	[save]	Finished saving student record to DB.
+22:15:5 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:15:5 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:15:5 DEBUG	[save]	Finished saving student record to DB.
+22:16:54 DEBUG	[getAll]	Getting list of all students from DB.
+22:16:55 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:16:55 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:16:55 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:16:55 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:16:55 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:16:55 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:16:55 DEBUG	[save]	Finished saving student record to DB.
+22:16:55 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:16:55 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:16:56 DEBUG	[save]	Finished saving student record to DB.
+22:16:56 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:16:56 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:16:56 DEBUG	[save]	Finished saving student record to DB.
+22:17:46 DEBUG	[getAll]	Getting list of all students from DB.
+22:17:46 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:17:46 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:17:47 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:17:47 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:18:25 DEBUG	[getAll]	Getting list of all students from DB.
+22:18:25 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:18:26 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:18:26 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:18:26 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:18:53 DEBUG	[getAll]	Getting list of all students from DB.
+22:18:53 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:18:53 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:18:53 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:18:53 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:32:17 DEBUG	[getAll]	Getting list of all students from DB.
+22:32:17 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:32:17 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:32:17 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:32:17 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:32:17 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:32:17 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:32:17 DEBUG	[save]	Finished saving student record to DB.
+22:32:17 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:32:17 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:32:17 DEBUG	[save]	Finished saving student record to DB.
+22:32:17 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:32:17 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:32:17 DEBUG	[save]	Finished saving student record to DB.
+22:33:57 DEBUG	[getAll]	Getting list of all students from DB.
+22:33:57 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:33:57 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:33:57 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:33:57 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:33:57 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:33:57 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:33:57 DEBUG	[save]	Finished saving student record to DB.
+22:33:57 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:33:57 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:33:57 DEBUG	[save]	Finished saving student record to DB.
+22:33:57 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:33:57 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:33:57 DEBUG	[save]	Finished saving student record to DB.
+22:34:25 DEBUG	[getAll]	Getting list of all students from DB.
+22:34:25 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:34:25 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:34:25 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:34:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:34:25 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:34:25 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:34:25 DEBUG	[save]	Finished saving student record to DB.
+22:34:25 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:34:25 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:34:25 DEBUG	[save]	Finished saving student record to DB.
+22:34:25 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:34:25 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:34:25 DEBUG	[save]	Finished saving student record to DB.
+22:34:49 DEBUG	[getAll]	Getting list of all students from DB.
+22:34:49 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:34:49 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:34:49 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:34:49 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:34:49 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:34:49 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:34:55 DEBUG	[getAll]	Getting list of all students from DB.
+22:34:55 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:34:55 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:34:55 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:34:55 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:34:55 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:34:55 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:34:55 DEBUG	[save]	Finished saving student record to DB.
+22:34:55 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:34:55 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:34:55 DEBUG	[save]	Finished saving student record to DB.
+22:34:55 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:34:55 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:34:55 DEBUG	[save]	Finished saving student record to DB.
+22:35:34 DEBUG	[getAll]	Getting list of all students from DB.
+22:35:34 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:35:34 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:35:34 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:35:34 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:35:34 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:35:34 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:35:34 DEBUG	[save]	Finished saving student record to DB.
+22:35:34 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:35:34 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:35:34 DEBUG	[save]	Finished saving student record to DB.
+22:35:34 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:35:34 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:35:34 DEBUG	[save]	Finished saving student record to DB.
+22:35:59 DEBUG	[getAll]	Getting list of all students from DB.
+22:35:59 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:35:59 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:35:59 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:35:59 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:35:59 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:35:59 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:35:59 DEBUG	[save]	Finished saving student record to DB.
+22:35:59 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:35:59 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:35:59 DEBUG	[save]	Finished saving student record to DB.
+22:35:59 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:35:59 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:35:59 DEBUG	[save]	Finished saving student record to DB.
+22:36:19 DEBUG	[getAll]	Getting list of all students from DB.
+22:36:19 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:36:19 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:36:19 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:36:19 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:36:19 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:36:19 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:36:19 DEBUG	[save]	Finished saving student record to DB.
+22:36:19 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:36:19 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:36:19 DEBUG	[save]	Finished saving student record to DB.
+22:36:19 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:36:19 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:36:19 DEBUG	[save]	Finished saving student record to DB.
+22:37:3 DEBUG	[getAll]	Getting list of all students from DB.
+22:37:3 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:37:3 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:37:3 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:37:3 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:37:3 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:37:12 DEBUG	[getAll]	Getting list of all students from DB.
+22:37:12 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:37:12 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:37:12 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:37:12 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:37:12 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:37:17 DEBUG	[getAll]	Getting list of all students from DB.
+22:37:17 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:37:17 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:37:17 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:37:17 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:37:17 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:37:17 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:37:17 DEBUG	[save]	Finished saving student record to DB.
+22:37:17 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:37:17 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:37:17 DEBUG	[save]	Finished saving student record to DB.
+22:37:17 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:37:17 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:37:17 DEBUG	[save]	Finished saving student record to DB.
+22:37:42 DEBUG	[getAll]	Getting list of all students from DB.
+22:37:42 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:37:43 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:37:43 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:37:43 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:37:43 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:37:43 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:37:43 DEBUG	[save]	Finished saving student record to DB.
+22:37:43 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:37:43 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:37:43 DEBUG	[save]	Finished saving student record to DB.
+22:37:43 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:37:43 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:37:43 DEBUG	[save]	Finished saving student record to DB.
+22:38:1 DEBUG	[getAll]	Getting list of all students from DB.
+22:38:1 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:38:1 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:38:2 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:38:2 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:38:2 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:38:2 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:38:2 DEBUG	[save]	Finished saving student record to DB.
+22:38:2 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:38:2 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:38:2 DEBUG	[save]	Finished saving student record to DB.
+22:38:2 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:38:2 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:38:2 DEBUG	[save]	Finished saving student record to DB.
+22:38:3 DEBUG	[getAll]	Getting list of all students from DB.
+22:38:3 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:38:3 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:38:3 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:38:3 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:38:4 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+22:38:4 DEBUG	[getByStudentId]	Student received by student id: [12].
+22:46:35 DEBUG	[getAll]	Getting list of all students from DB.
+22:46:35 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:46:35 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:46:35 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:46:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:46:35 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:46:35 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:46:35 DEBUG	[save]	Finished saving student record to DB.
+22:46:35 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:46:35 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:46:35 DEBUG	[save]	Finished saving student record to DB.
+22:46:35 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:46:35 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:46:35 DEBUG	[save]	Finished saving student record to DB.
+22:47:21 DEBUG	[getAll]	Getting list of all students from DB.
+22:47:21 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:47:21 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:47:21 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:47:21 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:47:41 DEBUG	[save]	Creating student record to save in DB for [2] [Yarin Israeli].
+22:47:41 DEBUG	[save]	Saving student record to save in DB for [2] [Yarin Israeli].
+22:47:41 DEBUG	[save]	Finished saving student record to DB.
+22:47:56 DEBUG	[getAll]	Getting list of all students from DB.
+22:47:56 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:47:56 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:47:56 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:47:56 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:47:56 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:47:56 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:47:56 DEBUG	[save]	Saving completed courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving desired courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Finished saving student record to DB.
+22:47:56 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:47:56 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:47:56 DEBUG	[save]	Saving completed courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving desired courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Finished saving student record to DB.
+22:47:56 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:47:56 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:47:56 DEBUG	[save]	Saving completed courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Saving desired courses - recursive call to [save].
+22:47:56 DEBUG	[save]	Finished saving student record to DB.
+22:48:16 DEBUG	[getAll]	Getting list of all students from DB.
+22:48:16 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:48:16 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:48:16 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:48:16 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:49:12 DEBUG	[getAll]	Getting list of all students from DB.
+22:49:12 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:49:12 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:49:12 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:49:12 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:49:20 DEBUG	[getAll]	Getting list of all students from DB.
+22:49:20 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:49:20 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:49:20 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:49:20 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:49:35 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+22:49:35 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+22:49:35 DEBUG	[save]	Finished saving student record to DB.
+22:49:40 DEBUG	[getAll]	Getting list of all students from DB.
+22:49:40 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:49:40 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:49:40 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:49:40 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+22:49:40 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:52:0 DEBUG	[getAll]	Getting list of all students from DB.
+22:52:0 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:52:0 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:52:0 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:52:0 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+22:52:0 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:52:0 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:52:0 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:52:0 DEBUG	[save]	Finished saving student record to DB.
+22:52:0 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:52:0 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:52:0 DEBUG	[save]	Finished saving student record to DB.
+22:52:0 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:52:0 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:52:0 DEBUG	[save]	Finished saving student record to DB.
+22:52:0 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+22:52:0 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+22:52:0 DEBUG	[save]	Finished saving student record to DB.
+22:59:0 DEBUG	[getAll]	Getting list of all students from DB.
+22:59:0 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+22:59:0 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+22:59:0 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+22:59:0 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+22:59:0 DEBUG	[getAll]	Finished getting list of all students from DB.
+22:59:0 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+22:59:0 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+22:59:0 DEBUG	[save]	Finished saving student record to DB.
+22:59:0 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+22:59:0 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+22:59:0 DEBUG	[save]	Finished saving student record to DB.
+22:59:0 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+22:59:0 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+22:59:0 DEBUG	[save]	Finished saving student record to DB.
+22:59:0 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+22:59:0 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+22:59:0 DEBUG	[save]	Finished saving student record to DB.
+23:3:52 DEBUG	[getAll]	Getting list of all students from DB.
+23:3:52 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+23:3:52 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+23:3:52 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+23:3:52 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+23:3:52 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:3:52 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+23:3:52 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+23:3:52 DEBUG	[save]	Finished saving student record to DB.
+23:3:52 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+23:3:52 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+23:3:52 DEBUG	[save]	Finished saving student record to DB.
+23:3:52 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+23:3:52 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+23:3:52 DEBUG	[save]	Finished saving student record to DB.
+23:3:52 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+23:3:52 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+23:3:52 DEBUG	[save]	Finished saving student record to DB.
+23:4:3 DEBUG	[getAll]	Getting list of all students from DB.
+23:4:3 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+23:4:3 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+23:4:3 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+23:4:3 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+23:4:3 DEBUG	[getAll]	Finished getting list of all students from DB.
+23:4:4 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+23:4:4 DEBUG	[getByStudentId]	Student received by student id: [12].
+0:41:24 DEBUG	[getAll]	Getting list of all students from DB.
+0:41:24 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:41:24 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:41:24 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:41:24 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:41:24 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:41:25 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+0:41:25 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+0:41:25 DEBUG	[save]	Finished saving student record to DB.
+0:41:25 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+0:41:25 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+0:41:25 DEBUG	[save]	Finished saving student record to DB.
+0:41:25 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+0:41:25 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+0:41:25 DEBUG	[save]	Finished saving student record to DB.
+0:41:25 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+0:41:25 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+0:41:25 DEBUG	[save]	Finished saving student record to DB.
+0:42:28 DEBUG	[getAll]	Getting list of all students from DB.
+0:42:28 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:42:29 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:42:29 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:42:29 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:42:29 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:43:26 DEBUG	[getAll]	Getting list of all students from DB.
+0:43:27 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:43:27 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:43:27 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:43:27 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:43:27 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:43:27 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+0:43:27 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+0:43:27 DEBUG	[save]	Finished saving student record to DB.
+0:43:27 DEBUG	[save]	Creating student record to save in DB for [8] [yaron sasson].
+0:43:27 DEBUG	[save]	Saving student record to save in DB for [8] [yaron sasson].
+0:43:27 DEBUG	[save]	Finished saving student record to DB.
+0:43:27 DEBUG	[save]	Creating student record to save in DB for [1] [ohad sasson].
+0:43:27 DEBUG	[save]	Saving student record to save in DB for [1] [ohad sasson].
+0:43:27 DEBUG	[save]	Finished saving student record to DB.
+0:43:27 DEBUG	[save]	Creating student record to save in DB for [2] [yossi glyzer].
+0:43:27 DEBUG	[save]	Saving student record to save in DB for [2] [yossi glyzer].
+0:43:27 DEBUG	[save]	Finished saving student record to DB.
+0:45:13 DEBUG	[getAll]	Getting list of all students from DB.
+0:45:13 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:45:13 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:45:13 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:45:13 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:45:13 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:7 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:7 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:51:7 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:51:7 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:51:7 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:51:7 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:35 DEBUG	[getAll]	Getting list of all students from DB.
+0:51:35 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:51:35 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:51:35 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:51:35 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:51:35 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:51:37 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+0:51:37 DEBUG	[getByStudentId]	Student received by student id: [12].
+0:53:32 DEBUG	[getAll]	Getting list of all students from DB.
+0:53:32 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:53:32 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:53:32 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:53:32 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:53:32 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:53:33 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+0:53:33 DEBUG	[getByStudentId]	Student received by student id: [12].
+0:54:22 DEBUG	[getAll]	Getting list of all students from DB.
+0:54:22 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:54:22 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:54:22 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:54:22 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:54:22 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:54:23 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+0:54:23 DEBUG	[getByStudentId]	Student received by student id: [12].
+0:54:33 DEBUG	[getAll]	Getting list of all students from DB.
+0:54:33 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+0:54:33 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+0:54:33 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+0:54:33 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+0:54:33 DEBUG	[getAll]	Finished getting list of all students from DB.
+0:54:35 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+0:54:35 DEBUG	[getByStudentId]	Student received by student id: [12].
+1:0:26 DEBUG	[getAll]	Getting list of all students from DB.
+1:0:26 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+1:0:26 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+1:0:26 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+1:0:26 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+1:0:26 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:0:28 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+1:0:28 DEBUG	[getByStudentId]	Student received by student id: [12].
+1:0:58 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+1:0:58 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+1:0:58 DEBUG	[save]	Saving completed courses - recursive call to [save].
+1:0:58 DEBUG	[save]	Saving assigned courses - recursive call to [save].
+1:0:58 DEBUG	[save]	Saving desired courses - recursive call to [save].
+1:0:58 DEBUG	[save]	Finished saving student record to DB.
+1:0:58 DEBUG	[save]	Creating student record to save in DB for [9] [moshe shimon].
+1:0:58 DEBUG	[save]	Saving student record to save in DB for [9] [moshe shimon].
+1:0:58 DEBUG	[save]	Finished saving student record to DB.
+1:2:48 DEBUG	[getAll]	Getting list of all students from DB.
+1:2:48 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+1:2:48 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+1:2:48 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+1:2:48 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+1:2:48 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:2:49 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+1:2:49 DEBUG	[getByStudentId]	Student received by student id: [12].
+1:3:25 DEBUG	[getAll]	Getting list of all students from DB.
+1:3:25 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+1:3:25 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+1:3:25 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+1:3:25 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+1:3:25 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:3:27 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+1:3:27 DEBUG	[getByStudentId]	Student received by student id: [12].
+1:4:54 DEBUG	[getAll]	Getting list of all students from DB.
+1:4:54 DEBUG	[getAll]		Received student [14] [yaron sasson] from DB.
+1:4:54 DEBUG	[getAll]		Received student [13] [ohad sasson] from DB.
+1:4:54 DEBUG	[getAll]		Received student [17] [yossi glyzer] from DB.
+1:4:54 DEBUG	[getAll]		Received student [12] [moshe shimon] from DB.
+1:4:54 DEBUG	[getAll]	Finished getting list of all students from DB.
+1:4:54 DEBUG	[getByStudentId]	Trying to get student by student id [12].
+1:4:54 DEBUG	[getByStudentId]	Student received by student id: [12].

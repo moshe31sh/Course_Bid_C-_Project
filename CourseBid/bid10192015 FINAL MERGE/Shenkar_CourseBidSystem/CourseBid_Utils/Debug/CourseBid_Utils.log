@@ -1,0 +1,33 @@
+﻿Build started 19-10-15 12:39:34 AM.
+     1>Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_Utils\CourseBid_Utils.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Common /IC:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\\CourseBid_Storage /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt EventLog.cpp Lexer.cpp maincpp.cpp Parser.cpp Token.cpp
+         Token.cpp
+         Parser.cpp
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(188): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(230): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(288): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(306): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(340): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\parser.cpp(358): warning C4018: '<' : signed/unsigned mismatch
+         maincpp.cpp
+         Lexer.cpp
+     1>c:\users\moshe_000\desktop\34\coursebid\coursenidfinal\shenkar_coursebidsystem\coursebid_utils\lexer.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+         EventLog.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_Utils.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_Utils.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_Utils.lib" /MACHINE:X86 Debug\EventLog.obj
+         Debug\Lexer.obj
+         Debug\maincpp.obj
+         Debug\Parser.obj
+         Debug\Token.obj
+         CourseBid_Utils.vcxproj -> C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\Debug\CourseBid_Utils.exe
+     1>Done Building Project "C:\Users\moshe_000\Desktop\34\CourseBid\coursenidFinal\Shenkar_CourseBidSystem\CourseBid_Utils\CourseBid_Utils.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.22
